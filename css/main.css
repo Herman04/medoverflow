@@ -1,0 +1,20 @@
+body {
+    margin: auto;
+    background: #fffaf0
+    font-family: arial;
+}
+.nav_bar {
+    margin: auto;
+    border-bottom: 1px solid #d8d8d8;
+    width: 860px;
+    padding: 0px 0px 0px 0px;
+}
+.nav_bar ul {
+    padding: 0;
+    list-style: none;
+}
+.nav_bar ul li {
+    float: left;
+    font-size: 12px;
+    margin-right: 10px;
+}
